@@ -1,5 +1,10 @@
 # LadFinalSockets_Datos2-CristianChavez_LuisVergara_JulianColl
 
+Integrantes:
+Cristian Chavez
+Luis Vergara
+Julian Coll
+
 Servidor Y Cliente Mediante el Uso de Sockets e Hilos en java Netbeans.
 
 Codigo de QuickSort Derecho tomado de: https://www.geeksforgeeks.org/quick-sort/
